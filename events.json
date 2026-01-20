@@ -4,20 +4,112 @@
     "type": "date",
     "startDate": "January 3rd",
     "title": "Flight into Burlington",
-    "description": "Desc",
+    "description": "Today, I flew into Burlington after connecting in New York City. I arrived in the afternoon, and took a cab to my apartment to start unpacking!",
     "images": [
-      "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800"
+      "https://hc-cdn.hel1.your-objectstorage.com/s/v3/a9539dae48207591_b89344cf759ab888_img_5673.jpeg"
     ]
   },
   {
     "id": 2,
-    "type": "period",
-    "startDate": "March 2020",
-    "endDate": "August 2020",
-    "title": "First day",
-    "description": "Desc",
+    "type": "date",
+    "startDate": "January 4th",
+    "title": "First Day of Work",
+    "description": "First day of work at Hack Club! I got into the office bright and early, and it was amazing to see colleagues that I only often see online. I appreciated the environment which fostered collaboration, discussion, and lots of fun.",
     "images": [
-      "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800"
+      "https://hc-cdn.hel1.your-objectstorage.com/s/v3/3f551ce036f8103c_img_5718_2.png"
     ]
+  },
+    {
+    "id": 3,
+    "type": "date",
+    "rotate":1,
+    "startDate": "Evening of January 4th",
+    "title": "First Hockey Game",
+    "description": "In playing hockey for the first time, I learned about collaboration, grit, and (both metaphorically and literally) getting up after you fall down.",
+    "images": [
+      "https://hc-cdn.hel1.your-objectstorage.com/s/v3/ae87d2d532e1ba49_img_5683_2.png"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "period",
+    "rotate": 1,
+    "startDate": "January 4th",
+    "endDate": "January 8th",
+    "title": "Preparation and Planning: conceptualization of the Print hackathon, and development of the Sleepover website and online system",
+    "description": "I spent my first week working on conceptualization of the hackathon we will be running with the New York Times, including working on a slide deck for pitches, website design, logistic plans for the event, and ideas for collaboration with the Times.\n\nI also developed the entirety of the Sleepover backend and much of the front-end to handle user submission of projects for the hackathon, the shop and fulfillment system for prizes, user settings, a gallery of approved projects, and an automated system for Hack Club staff members to review projects for quality.",
+    "images": [
+      "https://hc-cdn.hel1.your-objectstorage.com/s/v3/7cc1ae40c1649e50_img_5691_2.png",
+      "https://hc-cdn.hel1.your-objectstorage.com/s/v3/9badb1feadb1fd99_img_5717_2.png"
+    ]
+  },
+    {
+    "id": 5,
+    "type": "date",
+    "startDate": "January 5th",
+    "title": "First Team Sync",
+    "description": "At my first team sync, I was able to present my progress on the Sleepover website. I loved getting to be in a supportive, enthusastic work environment, and hearing about all of my coworkers' projects."
+  },
+    {
+    "id": 6,
+    "type": "date",
+    "startDate": "January 6th",
+    "title": "Design of the Print website",
+    "description": "I helped cut out newspapers and arrange them digitally to design the front-end of the website (using Figma) for our journalism inspired hackathon.",
+    "images": [
+      "https://hc-cdn.hel1.your-objectstorage.com/s/v3/d5224012d1289cf4_gifgif.gif"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "date",
+    "rotate": 1,
+    "startDate": "January 11th",
+    "title": "Trip into Burlington",
+    "description": "On this Sunday, I took a trip into Burlington to explore the famous Church Street Marketplace. Plus, I got some book shopping done!",
+    "images": [
+      "https://hc-cdn.hel1.your-objectstorage.com/s/v3/12e9f05c02a2dec7_img_5735.png"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "date",
+    "startDate": "January 12th",
+    "title": "Philanthropy and communications work",
+    "description": "Today, I spent my morning working with Christina on slide decks for her zoom calls with philanthropic organizations such as the Balmer company. This experience taught me a lot about how to pitch an organization, and how to tailor your communications to the group you are meeting with and their values.",
+    "images": [
+      "https://hc-cdn.hel1.your-objectstorage.com/s/v3/bced9872cbc468f6_screenshot_2026-01-19_at_11.28.11___pm.png"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "period",
+    "startDate": "January 12th",
+    "endDate": "January 16th",
+    "title": "Execution and Iteration: testing and launch of the Sleepover website and event",
+    "description": "I spent my second week, though I was mostly working from home with strep throat, working on beta testing the sleepover website. During this week, I learned from advanced developers about techniques for website, api, and data security.",
+    "images": [
+      "https://hc-cdn.hel1.your-objectstorage.com/s/v3/2cea0e413d1c9bc1_screenshot_2026-01-19_at_11.29.33___pm.png",
+      "https://hc-cdn.hel1.your-objectstorage.com/s/v3/5f03428fb01902d1_screenshot_2026-01-19_at_11.26.36___pm.png"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "date",
+    "startDate": "January 16th",
+    "title": "Sleepover Launch",
+    "description": "Today was the day we launched the Sleepover website! Though there was a slight snafu with some last-minute bugs, the launch went smoothly, and we had over 100 signups in our first afternoon.",
+    "images": [
+      "https://hc-cdn.hel1.your-objectstorage.com/s/v3/39dec5415d8c764b_screenshot_2026-01-19_at_11.27.13___pm.png",
+      "https://hc-cdn.hel1.your-objectstorage.com/s/v3/ed39d602acca6e04_screenshot_2026-01-19_at_11.27.32___pm.png"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "period",
+    "startDate": "January 20th",
+    "endDate": "January 22nd",
+    "title": "Next Steps and Raising Awareness",
+    "description": "This week, I am going to work on spreading press for Sleepover and working on forming partnerships to gain participants."
   }
 ]
