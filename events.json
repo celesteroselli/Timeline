@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "type": "date",
+    "startDate": "January 3rd",
+    "title": "Flight into Burlington",
+    "description": "Desc",
+    "images": [
+      "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "period",
+    "startDate": "March 2020",
+    "endDate": "August 2020",
+    "title": "First day",
+    "description": "Desc",
+    "images": [
+      "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800"
+    ]
+  }
+]
